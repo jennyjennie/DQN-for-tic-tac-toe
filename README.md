@@ -1,4 +1,7 @@
 # DQN-Tic-Tac-Toe
+
+![Screenshot - 800x600](/Screenshot.png)
+
 This project aims to use DQN to build an unbeatable Tic Tac Toe AI. 
 
 Research interest of the project:
