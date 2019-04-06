@@ -4,6 +4,8 @@
 
 This project aims to use DQN to build an unbeatable Tic Tac Toe AI. 
 
+[hihihi](https://github.com/jennyjennie/DQN-for-tic-tac-toe/blob/master/JennyDQN-TAAI2018-no-animation.pdf)
+
 Research interest of the project:
 + Use domain knowledge to make DQN learn faster
 
