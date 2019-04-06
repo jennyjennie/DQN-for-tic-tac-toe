@@ -1,5 +1,5 @@
 # DQN-Tic-Tac-Toe
-This project aims to use DQN to build unbeatable Tic Tac Toe AI. 
+This project aims to use DQN to build an unbeatable Tic Tac Toe AI. 
 
 Research interest of the project:
 + Use domain knowledge to make DQN learn faster
@@ -17,11 +17,10 @@ The code I upload inculdes:
 
 Criteria for DQN being unbeatable:
 + DQN plays tic tac toe against randomly moving program for 10k rounds, and it can't lose a game
-+ We also invite 10 people to play against well trained DQN to ensure the DQN is unbeatable
++ We also invite 10 people to play against well trained DQN to ensure thtat the DQN is unbeatable
 
 
-Tic Tac Toe can be seen as a kind of Markov Decision Process, and every step of the game is expressed as (s, a, r ,s'), therefore we use 
-DQN to solve the problem.
+Tic Tac Toe can be seen as a kind of Markov Decision Process, and every step of the game is expressed as (s, a, r ,s'), therefore we could use DQN to solve the problem.
 
 + s: the current state of the board
 
