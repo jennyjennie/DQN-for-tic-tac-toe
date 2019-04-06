@@ -2,10 +2,11 @@
 
 ![Screenshot - 800x600](/Screenshot.png)
 
-DQN for Tic Tac Toe is my project on summer vacation in 2018, and I submitted a paper and did a presentation on 2018 TAAI conference.
+DQN for Tic Tac Toe is my project on summer vacation in 2018, and I submitted a paper and did a presentation on TAAI 2018 conference.
 
 [This is the pdf version of the presentation slides](https://github.com/jennyjennie/DQN-for-tic-tac-toe/blob/master/JennyDQN-TAAI2018-no-animation.pdf)
-[This is the pdf version of the paper]
+
+[This is the pdf version of the paper](https://github.com/jennyjennie/DQN-for-tic-tac-toe/blob/master/Taai-final.PDF)
 
 Research interest of the project:
 + Use domain knowledge to make DQN learn faster
